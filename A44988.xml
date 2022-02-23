@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition and remonstrance of some hundreds of retaylers who have sparkes of charity, and reason in them. And of country chap-men of the associated counties, and of thousands of poore people besides: for the restoring of farthing token: who are extreamely damnified, and are like to perish by the suppression of them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44988</idno>
+            <idno type="STC">Wing H3438</idno>
+            <idno type="STC">ESTC R215981</idno>
+            <idno type="EEBO-CITATION">99827736</idno>
+            <idno type="PROQUEST">99827736</idno>
+            <idno type="VID">32159</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32159)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1851:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition and remonstrance of some hundreds of retaylers who have sparkes of charity, and reason in them. And of country chap-men of the associated counties, and of thousands of poore people besides: for the restoring of farthing token: who are extreamely damnified, and are like to perish by the suppression of them.</title>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Printed in the yeare 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint place from Wing.</note>
+                  <note>Signatures: A⁴ B² .</note>
+                  <note>Reproduction of the original in: Trinity College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  England --  Early works to 1800.</term>
+               <term>Coins, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32159:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:32159:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>The Humble PETITION AND REMONSTRANCE <hi>OF SOME H<g ref="char:V">Ʋ</g>NDREDS</hi> of Retaylers, who have Sparkes <hi>of Charity, and Reaſon in them.</hi>
+            </p>
+            <p>And of Country Chap-men of the Aſſociated Counties, and of thouſands of poore people beſides: For the Reſtoring of Farthing Tokens; who are extreame<g ref="char:EOLhyphen"/>ly damnified, and are like to periſh by the ſuppreſſion of them.</p>
+            <p>
+               <hi>Printed in the yeare</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:32159:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb facs="tcp:32159:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>TO BOTH THE HIGH AND HONOURABLE HOUSES of Parliament.</head>
+            <head type="sub">The humble Petition and Remon<g ref="char:EOLhyphen"/>ſtrance of ſome hundreds of Retaylers, who have ſparkes of Charity, and reaſon in them; and of Countrey Chap-men of the Aſſoſiated Counties, and of Thouſands of Poore people beſides, for the Reſtoring of Farthing-Tokens, who are extream<g ref="char:EOLhyphen"/>ly Damnified, and are like to periſh by the ſup<g ref="char:EOLhyphen"/>preſſion of them.</head>
+            <p>
+               <seg rend="decorInit">L</seg>AMENTABLY ſhewing: That theſe diſmall dayes, (as it ſeemes) ſurpaſſe other deſtructive times. For now the Axe is laid to the rootes of Shrubs, whereas heretofore tall Cedars bare off the Stroake: And doubtleſſe all the Engineers on both ſides ſince theſe Warres began, have not by their Stratagems finiſhed the dayes of more men; Then a very few Retayling Tradeſmen by their gilded ſiniſter ſuggeſtions (being meere covetous Earth-wormes) are like to doe; not only of men, but of women and children alſo: If conſideration be not had of the Petitioners preſent complaint: Wherein the pretended Grie<g ref="char:EOLhyphen"/>vance, and Objections of theſe handfull of Retaylers (the poores ad<g ref="char:EOLhyphen"/>verſaries, though their beſt cuſtomers) are really anſwered, and truly
+<pb facs="tcp:32159:3"/>
+               <!-- PDF PAGE 27 -->ſet forth: For the ſhadow of him that rides on the Pale Horſe hath already made an impreſſion in the faces of your Petitioners: And the vacuity of their Bowels by their inward contraction, ſounds ſhrill, and loud in the eares of ſuch as paſſe by them; and ſay, <hi>Woe betide them that were the cauſe thereof,</hi> &amp;c.</p>
+            <p>For as much therefore, as all their temporall Hopes of preſent Reliefe concerning this their moſt urgent Cauſe, and beſt outward Piller that ſupports their very Being; depends wholly upon theſe two capitall Houſes, or chiefe Courts of the Kingdome. They there<g ref="char:EOLhyphen"/>fore humbly beſeech, That your Honours commiſeration of their de<g ref="char:EOLhyphen"/>plored Eſtates may be anſwerable to your Greatneſſe, and that the ſame may not be referred to any other Court; but that theſe enſuing Objections and Reaſons may be here deliberately conſidered of, and according unto equity granted; That ſo your poore Petitioners faint<g ref="char:EOLhyphen"/>ing ſoules? may be revived, and maintained to pray heartily for your Honours proſperity.</p>
+            <p>The complaining Retaylers maine Objections againſt Farthings in their Petition printed, and preſented to the Parliament two yeares ſince, are theſe, in their ownewords;</p>
+            <p>
+               <hi>Viz.</hi>
+               <lb/>
+               <label>Object.</label> That the allowance of one and twenty ſhillings in Farthing-Tokens, for twenty ſhillings in money, hath been the chiefeſt cauſe of their great Burthen; For many covetous perſons have uſually fetched out great quantities of Farthings, and forcing them upon poore labouring people.</p>
+            <p>
+               <label>Anſw.</label> 1 They that complaine moſt of their loſſe, are (though it ſee<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e a Paradox) the greateſt gainers, becauſe they are the chiefeſt Retaylers, and principall venters of their commodities to the poore. For certaine it is, that all ſuch that in a Retayling way ſels by Peny, halfe-peny, and Farthings worth, gain more by twelve pence in the pound at leaſt, then other Shop-keepers do, that ſell by greater quan<g ref="char:EOLhyphen"/>tities, &amp;c.</p>
+            <p n="2">2. The pooreſt people are theſe Retaylers beſt cuſtomers, and con<g ref="char:EOLhyphen"/>ſtant
+<pb facs="tcp:32159:3"/>
+               <!-- PDF PAGE 27 -->frequenters. If therefore the current of the poores Farthing Revenue be ſtopt; Theſe complainants will loſe by the decay, and ebbe of their cuſtome, more then the loſſe of twelve pence in the pound; and then wiſh they had not leap't out of the Frying<g ref="char:EOLhyphen"/>pan into the fire, as ſome of them already doe.</p>
+            <p n="3">3 If there were as many ſilver pence, and halfe-pences coyned as now there are Farthings; Yet thoſe will not by a fourth part as much availe the poore as Tokens will; Partly in regard that it is the hereditary uſe, and inclination of men to delight in, and re<g ref="char:EOLhyphen"/>taine Silver more warily then Braſſe, and partly becauſe, he that can, or will give a Farthing, either cannot, or will not beſtow a halfe-peny, or peny: And therefore that old ſaying, <hi>Many a lit<g ref="char:EOLhyphen"/>tle makes a mickle,</hi> is now a maine plea for the poore, and conſe<g ref="char:EOLhyphen"/>quently for theſe few Silver-thirſty Retaylers, if they well un<g ref="char:EOLhyphen"/>derſtood it.</p>
+            <p n="4">4 If the apprehenſion of theſe Retaylers had been well com<g ref="char:EOLhyphen"/>poſed together, and their minds freed from extreame covetouſ<g ref="char:EOLhyphen"/>neſſe, they would never have lifted up their voice againſt Far<g ref="char:EOLhyphen"/>things, if they had conceived but theſe two Reaſons only.</p>
+            <list>
+               <item>1 In regard of the ſetled Excize, which turnes to their ac<g ref="char:EOLhyphen"/>compt, and cleare benefit twelve pence in each Barrell, which is two ſhillings in the pound gaine to them more then ever they had: For the Excize is but two ſhillings upon the Barrell; and they, when they ſell cheapeſt, have peny farthing for each quart, which Farthing upon the quart, is juſt three ſhillings in the Barrell.</item>
+               <item>2 To ſuppreſſe Farthings at ſuch a time, when a quart of that liquor which refreſhes the ſpirit of the poore, is raiſed a Farthing higher then ever it was; doth cauſe ſuch a peeviſh continued trouble in their ſmall diſtracted rules of Arethmetick; and is ſuch a fretting whet-ſtone to ſharpen the edge of their groanes, that it will endanger the renting of the clouds. Beſides, it is moſt un<g ref="char:EOLhyphen"/>ſeaſonable (as it is humbly conceived) that this mighty ſtorme of the loſſe of three-ſcore or foure-ſcore thouſand pounds at leaſt
+<pb facs="tcp:32159:4"/>
+                  <!-- PDF PAGE 28 -->ſhould fall upon the diſtreſſed ſubject, when they are already in a languiſhing condition, through the decay of Trade, contracti<g ref="char:EOLhyphen"/>tion of mens hearts, and the abſence of people; that there is as much elbow-roome now in this City, as in ſome remote Cor<g ref="char:EOLhyphen"/>poration Townes. Therefore a Reformation in this at preſent, is (as it were) a new peece of cloth ſtitched to an old ragged gar<g ref="char:EOLhyphen"/>ment, which will make the rent far worſe.</item>
+            </list>
+            <p n="5">5 That in their ſaid printed Petition, they ſay ſome five hun<g ref="char:EOLhyphen"/>dred ſubſcribed to it; Whereof, (if ſo) two parts of them are Victuallers, or victualling Chaundlers, who gaine more by the Tap, then by all their other Trinkets (and ſo much the more by meanes of the Excize) and but foure or five of theſe five hundred were the only Stickles, or Bell-weathers that tincklet the reſt in (as heretofore they have under-hand attempted to doe) and theſe doe it, but to maintaine ſome ſuperfluous ſauce to their full diſhes, having their eyes clos'd up with <hi>Sauls</hi> perſecuting ſcales, that they cannot behold one glimpſe of Providence, but what they find and feele in their owne fingers: Whereas on the o<g ref="char:EOLhyphen"/>ther ſide, here are ten times ſo many thouſand, who are con<g ref="char:EOLhyphen"/>ſtrained to make hunger their beſt ſauce, and are glad to have where withall to ſuſtaine nature, and behold Providence ſhine<g ref="char:EOLhyphen"/>ing each day upon them, as the birds of the ayre doe. Therefore, although Chriſtianity lyes ſlumbering, yet the Body Politicke is awake; and ſurely will not eſteeme more of a few full-fed, well-lined Retaylers, then a great number of Lean-ribb'd, thin-cloth'd Chriſtians, that nothing makes the difference, but that the ſheres went ſide-wayes in the cutting out of the peece; or <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay that the Head hath no need of the little Toe, or of the very nayle there<g ref="char:EOLhyphen"/>of: But ſurely that Body will preſerve all. For it is ſaid, <hi>The poore you ſhall have alwayes with you;</hi> unleſſe now by this means they will be altogether ſtarved: As ſome report they are, who obſerve the weekly Bills of Mortality; That many already de<g ref="char:EOLhyphen"/>parts this life by a new kind of Plague, for not having the old Tokens about them, &amp;c.</p>
+            <p n="6">6 That without all doubt, theſe few complaining Retaylers know full well, that their ſaid poore cuſtomers traficke neither
+<pb facs="tcp:32159:4"/>
+               <!-- PDF PAGE 28 -->for the Gold of <hi>Opher,</hi> nor for the Silver wedge of <hi>India,</hi> but (for the moſt part) poſſeſſe that mettall that ſuits moſt with their low eſtate, which are Farthings; And therefore theſe Re<g ref="char:EOLhyphen"/>taylers (let them ſay what they pleaſe in their petition) know<g ref="char:EOLhyphen"/>ing what Coine their ſaid Clyants trade moſt in: Doe oft-times provide ſuch ragged ſtuffe, and decayed Comodities for them; as withered coſtive Cheeſe, twice-bak'd Bread, Butter of a ſtronger odor, Drinke that ſtood long out of its proper element, and all other things in their defect; So that if they loſt two ſhillings in twenty in Farthings; Yet, if their large conſciences did not hold downe their hands they would lift them up, and lay them upon their mouthes, and ſay one to another Tace &amp;c.</p>
+            <p n="7">7 That this very point is the Gulph of their conceipts, and the myſtery of their griping iniquity, mixt with vaine glory (<hi>viz</hi>) To ſuppreſſe theſe Farthing Tokens, that ſo they may advance their owne Tokens, Stamps, Seales, Names, Signes, Superſcrip<g ref="char:EOLhyphen"/>tions, if not Images, as now appeares (though they be far inferi<g ref="char:EOLhyphen"/>our in dignity to <hi>Caeſar</hi>) And alſo altogether oppugnant to di<g ref="char:EOLhyphen"/>vers waighty reaſons both in the King, and his Royall Fathers Proclamations iſſued out for reſtraint of theirs, but for the allow<g ref="char:EOLhyphen"/>ance, and confirmation of theſe Farthings: By meanes where<g ref="char:EOLhyphen"/>of they rivet, linck, and incorporate their Cuſtomers unto them, and ſeale them up for their owne ſelves; ſo that they cannot move an Intch to any other Tradeſman, becauſe their Coin is not currant out of that narrow Clymate: Which thing in it ſelfe is really the greateſt oppreſſion that can be impoſed upon diſtreſſed people; and makes good the laſt mentioned reaſon, That their poore cuſtomers will now be conſtrained to accept of their ſaid decayed commodities, and at what prices they pleaſe: But theſe Farthings retaine that vertue in them, which is derived from a ſuperiour Power, and therefore paſſe through to moſt places, and at all times.</p>
+            <p n="8">8 That if theſe troubleſome Retaylers had taken the paines, but to have pluck't out a peece of each of the beames that are in their eyes; they would have ſeene clearly how ſmall a mote of Inconvenience theſe Farthings have made; and on the contrary
+<pb facs="tcp:32159:5"/>
+               <!-- PDF PAGE 29 -->what a Mountanous fallacy, and deceipt theſe their Tin, Pew<g ref="char:EOLhyphen"/>ter, Lead, Leather, Horne, and Wax Tokens doe bring to paſſe: For; when any of theſe Retaylers that have thus clinch'd in their ſaid cuſtomers, either dye, run away or break (as it is a common accident in theſe tottering times) Then all theſe traſhie inferiour Tokens are immediatly defunct, and choak'd up in the neſt, and of no vſe at all; So that whoſoever poſſeſſeth any of them, are ſubject to a monthly fraud, and mutation; Whereas the other ſort is ſcarce ſubject unto the like, once in a Coronation.</p>
+            <p n="9">9 That the foreſaid Country Chap-men doe (as it ſeemes by their froward words) faint under their preſent Aſſeſments, and wonder that this unexpected By-Blow ſhould fall ſo unſeaſon<g ref="char:EOLhyphen"/>ably upon them, That they begin to Reele about, and ſay they have as many Farthings in their cuſtody as will beare their charges awhile in the Kings Army, where they will paſſe: Yet being loath to leave houſe, and home; they moſt vigillantly at<g ref="char:EOLhyphen"/>tend the Carriers weekly returne from <hi>London</hi> to bring them happy Tidings of their Reſtauration againe; Which if they, and the reſt, faile of their Hopes therein, It may (as it is humbly to be feared) beget ſome Inconvenience, that otherwiſe may be eaſily, and requiſitely prevented.</p>
+            <p n="10">10 That upon an Ayry ſuſpition, or a meere invention, which ſome malignant Retaylers were alwayes prone to conceive for to ſuppreſſe Farthings, onely for their owne Ends; It was gives out, that Tokens were Imported from forraine parts; upon which Alderman <hi>Chambers</hi> was deſired to make diligent enqui<g ref="char:EOLhyphen"/>ry of the truth thereof; which he accordingly did; and found, that none at all had been at any time imported, vnleſſe they ſhould be wafted from beyond ſeas within the Sculles of their Cunning Contrivings.</p>
+            <p n="11">11 That theſe few Retayling Incendiaries doe at preſent Boulſter up themſelves in their hard-hearted Imaginations, and verily beleeve that the juſt out-cry of the poore is now huſh't, and become but a nine dayes diſcourſe, becauſe they are ſome<g ref="char:EOLhyphen"/>what
+<pb facs="tcp:32159:5"/>
+               <!-- PDF PAGE 29 -->ſilent, through the feebleneſſe of their bodyes, and contra<g ref="char:EOLhyphen"/>ction of their Lungs, and in regard they ſuppoſe ſome of theſe poore people have withdrawne themſelves from theſe parts; If that be ſo; O; but then where are they gone into the Coun<g ref="char:EOLhyphen"/>tryes, and what can they hope to have there; but either Pilfer a little to linger our Nature; or otherwiſe to have ſcope enough under the Cope of Heaven, and the Covert of a Hedge, or Ditch to ſurrender up their laſt Breath into the hand of that Power that challengeth Revenge to belong proper unto himſelfe; Who wil impreſſe ſuch a knowing ſtamp upon them for their full Re<g ref="char:EOLhyphen"/>quitall, as they doe upon their paultry Tokens for the poores Deceipt.</p>
+            <p n="12">12 That the State by the ſuppreſſing of Farthings loſe a ve<g ref="char:EOLhyphen"/>ry Conſiderable yeerely ſumme; which ſurely would be better had, and reſerved, then loſt, and caſt away like the ſnuffe of a Candle to offend others;</p>
+            <p>But howſoever theſe oppoſers of freindly Tokens abſo<g ref="char:EOLhyphen"/>lutely confeſſe in their ſaid printed Petition, That to lay downe the office will be inconveinent, for then (ſay they) all Retayling Trades will want ſmall moneyes, and the poore Reliefe. Therefore the Remnants of their retayling wares, afford theſe ſcraps of Charity for a remedy to ſupport the office.</p>
+            <p n="1">1 The firſt is, That the Office be ſetled onely in the power of the Crowne.</p>
+            <p>
+               <label>Anſ.</label> That was their Conceipt when their Petition was then printed; and may be ordered as the State pleaſe; if they be now of the ſame mind.</p>
+            <p n="2">2 The ſecond is, That the Extrinſick Denomination, and the Intrinſick value of a Farthing may ſtep ſomewhat neerer in proportion.</p>
+            <p>
+               <label>Anſ.</label> Theſe are fine words that fils their brains to as ſmall pur<g ref="char:EOLhyphen"/>poſe,
+<pb facs="tcp:32159:6"/>
+               <!-- PDF PAGE 30 -->as ſuch great peeces of Braſſe would doe their Boxes: But the cauſe of their Grievance being removed (which is the ſuppo<g ref="char:EOLhyphen"/>ſed loſſe of twelve pence in the pound) their Complaint being the effect thereof, will vaniſh away.</p>
+            <p n="3">3 The third is, That it may be fellony either to Import, or Counterfeit them.</p>
+            <p>
+               <label>Anſ.</label> That may be ordered ſo, if the State pleaſe.</p>
+            <p n="4">4 The laſt is, That no Advantage be allowed in the Iſſuing of them out, or returning of them into the Office.</p>
+            <p>
+               <label>Anſ.</label> Surely, this is but a very Cloſe-fiſted lumpiſh motion; To imagine that ſuch extraordinary paines, charges and atten<g ref="char:EOLhyphen"/>dance ſhould be beſtowed about Farthings, and that no profit ſhould accrue to the managers thereof: For which of them wil take the paines to compaſſe, and ſcore out a Cheeſe into ſo many penny worths, and then receive no benefit by it &amp;c.</p>
+            <p>But the preſent eaſe, and remedy humbly propoſed, and earneſtly implored from the rice of Dejected ſoules are onely theſe Three.</p>
+            <list>
+               <item>1 That the State would be pleaſed ſo to order it; That all Covetous perſons whom theſe Retaylers complaine of in their ſaid Petition; who fetch out great quantities of Farthings, and force them in payments upon poor labouring people: May be en<g ref="char:EOLhyphen"/>joyned under a penalty not to force, or pay above twelve pence in ten, or twenty ſhillings in any ſuch payment &amp;c.</item>
+               <item>2 That all the benefit, and profits of the ſaid office may al<g ref="char:EOLhyphen"/>wayes remaine there in ſafe Cuſtody under two or three Locks; and not hereafter to be tranſported beyond ſeas, as it hath been, but reſerved conſtantly for Rechange, and vſe of the State; And that the reſtoring of theſe Farthing Tokens and Confirming of the ſaid office againe, may be by your Honours Order publiſhed in all needfull places.</item>
+               <pb facs="tcp:32159:6"/>
+               <!-- PDF PAGE 30 -->
+               <item>3 And laſtly; That foraſmuch as there is now a unhappy <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hannell cut out in the Kingdome, that is very proper to receive <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is ſuppoſed flowing ſtreame of Farthings (though it were <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bigger) that overmuch waters the Meadowes of theſe few <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etaylers Conceipts (<hi>viz</hi>) This war; That therefore the com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on ſouldiers may receive twelve pence or more in each ten ſhil<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ngs of their Pay; Doubtleſſe they would then vſe ſuch Retorick <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all Corporation Townes where they came to, that without <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y difficulty they would paſſe current; And ſurely they would be <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ry neceſſary for them; becauſe they might then have a pint Beere for a Farthing, which now they cannot have; And in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>ed theſe Tokens are as vſefull in ſuch places, as in this City: ſides there is ſeldome any civill or vncivell Warres, but it <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th its illegitimate Coyne; and verily, that Coyne is moſt pre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>eſt to remaine at preſent, that was approved off on both ſides <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thin theſe few dayes.</item>
+            </list>
+            <p>By this meanes the floud of theſe few Retaylers complaint, will be waſted, and dryed up.</p>
+            <p>And the poores Revenue recovered from a Non-ſuit, and themſelves revived.</p>
+            <p>And all men will expect that Old Things ſhall paſſe away, when a Long-looked-for Peace ſhall be eſtabliſhed in our <hi>Iſrael.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
